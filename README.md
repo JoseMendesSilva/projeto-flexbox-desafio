@@ -8,3 +8,6 @@ Esse é o desafio a aula de Flexbox: interface de login do Instagram!
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ## 🚀 Let's code! 🚀
+
+# Git:
+Para criar uma branch no git usa-se o comando; git checkout -b <teste>.
